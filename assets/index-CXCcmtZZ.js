@@ -26645,7 +26645,7 @@ const f4 = (t, e) => `${t.slice(0, 4)}...${t.slice(t.length - 4)}`,
                             {
                               className:
                                 "text-primary-400 uppercase font-bold text-2xl mb-3",
-                              children: "COAI LOTTERY",
+                              children: "TBA LOTTERY",
                             },
                             void 0,
                             !1,
