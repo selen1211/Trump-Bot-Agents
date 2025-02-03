@@ -22076,7 +22076,7 @@ const Gt = (t) => {
   v8 = "/assets/top-banner-coin-CaSZizKb.png",
   g8 = "/assets/top-banner-robot-C4S1cXFF.png",
   o0 =
-    "/new logo.png";
+    "/ticket.png";
 /*!
  *  decimal.js v10.4.3
  *  An arbitrary-precision Decimal type for JavaScript.
