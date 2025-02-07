@@ -21425,7 +21425,7 @@ const Gt = (t) => {
                 "p",
                 {
                   className: "text-sm font-bold leading-5",
-                  children: "Litepaper",
+                  children: "Docs",
                 },
                 void 0,
                 !1,
@@ -21465,7 +21465,7 @@ const Gt = (t) => {
     R.jsxDEV(
       "a",
       {
-        href: Yw,
+        href: "https://t.me/trumpagentai_bot",
         target: "_blank",
         children: R.jsxDEV(
           "button",
@@ -21473,24 +21473,12 @@ const Gt = (t) => {
             className:
               "flex p-2 items-center gap-2 transition-all border-[1px] border-solid group hover:bg-white hover:text-black cursor-pointer duration-200 border-white",
             children: [
-              R.jsxDEV(
-                "img",
-                { src: tD, alt: "ticket", className: "h-5" },
-                void 0,
-                !1,
-                {
-                  fileName:
-                    "/builds/ac/cotiagents.ai/coti-agents-website/src/elements/lucky-draw/index.tsx",
-                  lineNumber: 8,
-                  columnNumber: 9,
-                },
-                void 0
-              ),
+              
               R.jsxDEV(
                 "p",
                 {
                   className: "text-sm font-bold leading-5",
-                  children: "join $TBA Lottery",
+                  children: "Trump Bot",
                 },
                 void 0,
                 !1,
