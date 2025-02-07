@@ -25039,7 +25039,7 @@ const f4 = (t, e) => `${t.slice(0, 4)}...${t.slice(t.length - 4)}`,
                                       R.jsxDEV(
                                         "a",
                                         {
-                                          href: "https://dexscreener.com/ethereum/0x4D4E0E8AB42F1311C7D489F7c3BcaFa239Cab4e8",
+                                          href: "https://dexscreener.com/ethereum/0x4d4e0e8ab42f1311c7d489f7c3bcafa239cab4e8",
                                           target: "_blank",
                                           children: R.jsxDEV(
                                             "img",
@@ -25073,7 +25073,7 @@ const f4 = (t, e) => `${t.slice(0, 4)}...${t.slice(t.length - 4)}`,
                                       R.jsxDEV(
                                         "a",
                                         {
-                                          href: "https://www.dextools.io/app/en/base/pair-explorer/0x4D4E0E8AB42F1311C7D489F7c3BcaFa239Cab4e8",
+                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x686c37257b926583c215e38eb6e18deabfda1c47?t=1738953409216",
                                           target: "_blank",
                                           children: R.jsxDEV(
                                             "img",
