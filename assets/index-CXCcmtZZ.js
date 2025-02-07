@@ -21384,13 +21384,13 @@ const Gt = (t) => {
     ["path", { d: "M18 6 6 18", key: "1bl5f8" }],
     ["path", { d: "m6 6 12 12", key: "d8bk6v" }],
   ]),
-  Ww = "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+  Ww = "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x4D4E0E8AB42F1311C7D489F7c3BcaFa239Cab4e8",
   Yw = "https://swap.trumpbotagents.pro/",
   s8 = "https://staking.trumpbotagents.pro/",
   l8 = "https://docs.trumpbotagents.pro/",
-  Of = "0x0000000000000000000000000000000000000000",
+  Of = "0x4D4E0E8AB42F1311C7D489F7c3BcaFa239Cab4e8",
   u8 =
-    "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+    "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x4D4E0E8AB42F1311C7D489F7c3BcaFa239Cab4e8",
   c8 = "https://graph-base.cotiagents.ai/subgraphs/name/coai-graph",
   eD = ({ size: t = 20 }) =>
     R.jsxDEV(
@@ -25039,7 +25039,7 @@ const f4 = (t, e) => `${t.slice(0, 4)}...${t.slice(t.length - 4)}`,
                                       R.jsxDEV(
                                         "a",
                                         {
-                                          href: "https://dexscreener.com/ethereum/0x0000000000000000000000000000000000000000",
+                                          href: "https://dexscreener.com/ethereum/0x4D4E0E8AB42F1311C7D489F7c3BcaFa239Cab4e8",
                                           target: "_blank",
                                           children: R.jsxDEV(
                                             "img",
@@ -25073,7 +25073,7 @@ const f4 = (t, e) => `${t.slice(0, 4)}...${t.slice(t.length - 4)}`,
                                       R.jsxDEV(
                                         "a",
                                         {
-                                          href: "https://www.dextools.io/app/en/base/pair-explorer/0x0000000000000000000000000000000000000000",
+                                          href: "https://www.dextools.io/app/en/base/pair-explorer/0x4D4E0E8AB42F1311C7D489F7c3BcaFa239Cab4e8",
                                           target: "_blank",
                                           children: R.jsxDEV(
                                             "img",
